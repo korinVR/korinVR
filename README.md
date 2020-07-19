@@ -1,6 +1,6 @@
 # Katsuomi Kobayashi (<a href="https://twitter.com/korinVR">@korinVR</a>)
 
-Hi, I'm Katsuomi Kobayashi, a.k.a. Korin (he/him) - a Unity developer and a VR developer working on <a href="https://www.xvi.co.jp/">XVI Inc</a>. I have 5+ years professional experience of VR development.
+Hi, I'm Katsuomi Kobayashi, a.k.a. Korin (he/him) - a Unity developer and a VR developer working at <a href="https://www.xvi.co.jp/">XVI Inc.</a> I have 5+ years professional experience of VR development.
 
 I'm a VR enthusiast, and my both professional and personal activity is for VR. The details are on <a href="https://framesynthesis.jp/about/">my website (in Japanese)</a>.
 
