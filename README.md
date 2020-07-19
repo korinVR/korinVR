@@ -2,7 +2,7 @@
 
 Hi, I'm Katsuomi Kobayashi, a.k.a. Korin (he/him) - a Unity developer and a VR developer working at <a href="https://www.xvi.co.jp/">XVI Inc.</a> I have 5+ years professional experience of VR development for Oculus Quest and HTC Vive.
 
-I'm a VR enthusiast, therefore my both professional and personal activity is for VR. The details are on <a href="https://framesynthesis.jp/about/">my website (in Japanese)</a>.
+I'm a VR enthusiast, therefore my both professional and personal works are for VR. The details are on <a href="https://framesynthesis.jp/about/">my website (in Japanese)</a>.
 
 ## 📫  Get in touch
 
