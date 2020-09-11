@@ -1,12 +1,12 @@
 # Katsuomi Kobayashi (<a href="https://twitter.com/korinVR">@korinVR</a>)
 
-Hi, I'm Katsuomi Kobayashi, a.k.a. Korin (he/him) - a Unity developer and a VR developer working at <a href="https://www.xvi.co.jp/">XVI Inc.</a> I have 5+ years professional experience of VR development for Oculus Quest/Rift and HTC Vive.
+Hi, I'm Katsuomi Kobayashi, a.k.a. Korin (he/him) - a Unity developer and a VR developer working at <a href="https://www.xvi.co.jp/">XVI Inc.</a> I have 5+ years professional experience of VR development for Oculus Quest and HTC Vive.
 
 I'm a VR enthusiast, therefore my all current professional and personal activities relate to VR. If you are interested, you can see the details on <a href="https://framesynthesis.jp/about/">my website (in Japanese)</a>.
 
 ## 📫  Get in touch
 
-My primary SNS is Twitter <a href="https://twitter.com/korinVR">@korinVR</a> (in Japanese). Please don't hesitate to DM me if you have any interesting offers or information. I also have an English Twitter account <a href="https://twitter.com/korinVR_en">@korinVR_en</a>, but the activity is lower.
+My primary SNS is Twitter <a href="https://twitter.com/korinVR">@korinVR</a> (in Japanese). I also have an English Twitter account <a href="https://twitter.com/korinVR_en">@korinVR_en</a>, but the activity is lower.
 
 <!--
 **korinVR/korinVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
