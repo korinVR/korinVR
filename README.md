@@ -1,8 +1,6 @@
-# Katsuomi Kobayashi (<a href="https://twitter.com/korinVR">@korinVR</a>)
+# About me
 
-Hi, I'm Katsuomi Kobayashi, a.k.a. Korin (he/him) - a Unity developer and a VR developer working at <a href="https://www.xvi.co.jp/">XVI Inc.</a> I have 5+ years professional experience of VR development for Oculus Quest and HTC Vive.
-
-I'm a VR enthusiast, therefore my all current professional and personal activities relate to VR. If you are interested, you can see the details on <a href="https://framesynthesis.jp/about/">my website (in Japanese)</a>.
+**Katsuomi Kobayashi**, a.k.a. [korinVR](https://twitter.com/korinVR_en) (he/him) is a Unity developer, a software engineer and a VR enthusiast. I got an Oculus Rift DK1 in 2013 and started creating VR content and exhibiting at events on my own, and before I knew it, it became my main job. After working on several commercial VR projects, I joined [Hashilus](https://hashilus.com/) in 2016. I was the main programmer of Shibuya VR PARK TOKYO's "[Salomon Carpet](https://www.youtube.com/watch?v=9ZSA5xTqKyQ)," "[VR Attack on Titan THE HUMAN RACE](https://www.youtube.com/watch?v=gqcSkKzAL-0)," etc. In December 2019, I joined [XVI Inc.](https://www.xvi.co.jp/en/) and started working on developing "[AniCast Maker](https://anicast-maker.com/en/)" for Oculus Quest (released in April 2021). I am the co-author of "[VR Content Development Guide 2017](https://www.amazon.co.jp/dp/B0722Y22FK)" and a speaker at [XR Kaigi 2020](https://xrkaigi.com/2020/). You can see my detailed activities on [my website (in Japanese)](https://framesynthesis.jp/about/).
 
 ## 📫  Get in touch
 
